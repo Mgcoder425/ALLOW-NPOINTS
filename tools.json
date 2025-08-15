@@ -14,6 +14,9 @@
 		},
 		"propwireDotCom": {
 			"access": true
+		},
+		"kingcountyDotGov": {
+			"access": true
 		}
 	},
 	"BOSS-JTS": {
