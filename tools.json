@@ -7,7 +7,7 @@
 			"access": false
 		},
 		"excelAutomation": {
-			"access": true
+			"access": false
 		}
 	},
 	"BOSS-JTS": {
