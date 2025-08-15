@@ -1,0 +1,15 @@
+{
+	"Alex": {
+		"auctionDotCom": {
+			"access": true
+		},
+		"xoomeDotCom": {
+			"access": false
+		}
+	},
+	"BOSS-JTS": {
+		"ToolX": {
+			"access": false
+		}
+	}
+}
