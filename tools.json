@@ -11,6 +11,9 @@
 		},
 		"foreclosureDotCom": {
 			"access": true
+		},
+		"propwireDotCom": {
+			"access": true
 		}
 	},
 	"BOSS-JTS": {
