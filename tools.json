@@ -8,6 +8,9 @@
 		},
 		"excelAutomation": {
 			"access": true
+		},
+		"foreclosureDotCom": {
+			"access": true
 		}
 	},
 	"BOSS-JTS": {
