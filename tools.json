@@ -5,6 +5,9 @@
 		},
 		"xoomeDotCom": {
 			"access": false
+		},
+		"excelAutomation": {
+			"access": true
 		}
 	},
 	"BOSS-JTS": {
