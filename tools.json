@@ -26,5 +26,10 @@
 		"ToolX": {
 			"access": false
 		}
+	},
+	"Vito-Servideo": {
+		"SturmgewehrAdsMonitor": {
+			"access": true
+		}
 	}
 }
