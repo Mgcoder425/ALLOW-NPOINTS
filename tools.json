@@ -10,7 +10,7 @@
 			"access": true
 		},
 		"foreclosureDotCom": {
-			"access": true
+			"access": false
 		},
 		"propwireDotCom": {
 			"access": true
